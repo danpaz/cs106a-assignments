@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 CS106A Assignment Solutions
 ============================
 
